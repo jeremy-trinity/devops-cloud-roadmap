@@ -29,7 +29,7 @@ This roadmap uses a **hybrid learning model**:
 ## 🔄 Stage 2 — Expansion (Optional)
 
 * Finish remaining Udemy sections
-* Deepen Python or explore new tools (e.g., Kubernetes)
+* Deepen Python or explore advanced tools (e.g., Kubernetes)
 
 👉 Goal: Become a **more complete engineer**
 
@@ -43,7 +43,7 @@ By the end of Stage 1, you will:
 * Use Git professionally
 * Write automation scripts in Python
 * Build and containerize applications with Docker
-* Create CI/CD pipelines with GitHub Actions
+* Create CI/CD pipelines
 * Deploy applications on AWS
 * Provision infrastructure using Terraform
 * Understand monitoring basics
@@ -64,13 +64,13 @@ By the end of Stage 1, you will:
 
 ---
 
-# 📚 RESOURCE STACK (OPTIMIZED)
+# 📚 RESOURCE STACK (FREE + PAID)
 
 ---
 
 ## 🧠 PHASE 1 — Foundations
 
-### ✅ Linux (KEEP FREE — BEST OPTION)
+### 🐧 Linux (FREE)
 
 | Resource           | Hours | Link                                        |
 | ------------------ | ----: | ------------------------------------------- |
@@ -78,28 +78,26 @@ By the end of Stage 1, you will:
 | FreeCodeCamp Linux |   10h | https://www.youtube.com/watch?v=sWbUDq4S6Y8 |
 | OverTheWire Bandit |    5h | https://overthewire.org/wargames/bandit/    |
 
-👉 Why: Hands-on labs > paid videos
+👉 Hands-on practice > paid content
 
 ---
 
-### 🌐 Networking (KEEP FREE)
+### 🌐 Networking (FREE)
 
 | Resource                         | Hours | Link                                                       |
 | -------------------------------- | ----: | ---------------------------------------------------------- |
 | Networking Course (freeCodeCamp) |    8h | https://www.youtube.com/watch?v=qiQR5rTSshw                |
 | HTTP Overview (MDN)              |    2h | https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview |
 
-👉 Why: Enough depth for DevOps level
-
 ---
 
-### 🐍 Python (UPGRADE — USE UDEMY)
+### 🐍 Python (PAID — HIGH ROI)
 
-| Course                            |        Hours Used | Link                                           |
-| --------------------------------- | ----------------: | ---------------------------------------------- |
-| 100 Days of Code™ Python Bootcamp | 30–40h (selected) | https://www.udemy.com/course/100-days-of-code/ |
+| Course                                              |        Hours Used | Link                                           |
+| --------------------------------------------------- | ----------------: | ---------------------------------------------- |
+| 100 Days of Code™: The Complete Python Pro Bootcamp | 30–40h (selected) | https://www.udemy.com/course/100-days-of-code/ |
 
-### Focus ONLY on:
+### Focus ONLY:
 
 * Python basics
 * File handling
@@ -114,16 +112,14 @@ By the end of Stage 1, you will:
 * GUI
 * data science / ML
 
-👉 Why: Structured + strong coding foundation
-
 ---
 
-### 🔧 Git & GitHub (KEEP FREE)
+### 🔧 Git & GitHub (FREE)
 
 | Resource                  | Hours | Link                                        |
 | ------------------------- | ----: | ------------------------------------------- |
 | Git & GitHub Crash Course |    3h | https://www.youtube.com/watch?v=RGOj5yH7evk |
-| Pro Git Book (selected)   |    7h | https://git-scm.com/book/en/v2              |
+| Pro Git Book              |    7h | https://git-scm.com/book/en/v2              |
 
 ---
 
@@ -131,50 +127,42 @@ By the end of Stage 1, you will:
 
 ---
 
-## 🐳 Docker (UPGRADE — UDEMY)
+## 🐳 Docker (PAID)
 
-| Course                                   |                  Hours Used |
-| ---------------------------------------- | --------------------------: |
-| Docker & Kubernetes: The Practical Guide | ~25h (Docker sections only) |
+| Course                                   |         Hours Used | Link                                                                |
+| ---------------------------------------- | -----------------: | ------------------------------------------------------------------- |
+| Docker & Kubernetes: The Practical Guide | ~25h (Docker only) | https://www.udemy.com/course/docker-kubernetes-the-practical-guide/ |
 
 ### Focus:
 
 * Dockerfiles
 * Volumes
 * Networking
-* Multi-container concepts
-
-❌ Skip:
-
-* deep Kubernetes sections (for now)
-
-👉 Why: Much deeper than free content
+* Multi-container apps
 
 ---
 
-## 🔄 CI/CD (UPGRADE — UDEMY)
+## 🔄 CI/CD (PAID)
 
-| Course                              |   Hours |
-| ----------------------------------- | ------: |
-| GitHub Actions – The Complete Guide | ~15–20h |
+| Course                              |   Hours | Link                                                            |
+| ----------------------------------- | ------: | --------------------------------------------------------------- |
+| GitHub Actions – The Complete Guide | ~15–20h | https://www.udemy.com/course/github-actions-the-complete-guide/ |
 
 ### Focus:
 
 * workflows
-* jobs & steps
+* automation
 * secrets
-* automation logic
-
-👉 Why: Real pipeline understanding
+* deployment pipelines
 
 ---
 
-## 🧩 Application Layer (FROM PYTHON COURSE)
+## 🧩 Application Layer (Python Flask)
 
-Use Flask section from Python bootcamp:
+From Python course:
 
-* Build API
-* Add endpoints
+* Build Flask API
+* Create endpoints
 * Prepare for deployment
 
 ---
@@ -183,40 +171,29 @@ Use Flask section from Python bootcamp:
 
 ---
 
-## ☁️ AWS (STRONGLY UPGRADE — HIGH ROI)
+## ☁️ AWS (PAID — HIGH PRIORITY)
 
-| Course                                   |   Hours |
-| ---------------------------------------- | ------: |
-| AWS Cloud Practitioner (Stephane Maarek) | ~25–30h |
+| Course                                                      |   Hours | Link                                                               |
+| ----------------------------------------------------------- | ------: | ------------------------------------------------------------------ |
+| Ultimate AWS Certified Cloud Practitioner (Stephane Maarek) | ~25–30h | https://www.udemy.com/course/aws-certified-cloud-practitioner-new/ |
 
-👉 Why:
-
-* clearer explanations
-* real-world context
-* faster understanding
+👉 One of the highest ROI upgrades
 
 ---
 
-## 🏗️ Terraform (UPGRADE)
+## 🏗️ Terraform (PAID)
 
-| Course                              | Hours |
-| ----------------------------------- | ----: |
-| Terraform for Beginners (KodeKloud) |  ~15h |
-
-👉 Why:
-
-* hands-on labs
-* better than most free tutorials
+| Course                                           | Hours | Link                                                               |
+| ------------------------------------------------ | ----: | ------------------------------------------------------------------ |
+| Terraform for the Absolute Beginners (KodeKloud) |  ~15h | https://www.udemy.com/course/terraform-for-the-absolute-beginners/ |
 
 ---
 
-## 📊 Monitoring (KEEP FREE)
+## 📊 Monitoring (FREE)
 
 | Resource                   | Hours | Link                                        |
 | -------------------------- | ----: | ------------------------------------------- |
 | Prometheus + Grafana Intro |    7h | https://www.youtube.com/watch?v=h4Sl21AKiDg |
-
-👉 Why: Enough for internship level
 
 ---
 
@@ -233,7 +210,7 @@ Use Flask section from Python bootcamp:
 ```
 User → Nginx → Docker App → AWS EC2
                 ↓
-         GitHub Actions CI/CD
+         CI/CD Pipeline
                 ↓
           Terraform Infra
                 ↓
@@ -249,7 +226,7 @@ User → Nginx → Docker App → AWS EC2
 * CI/CD pipeline
 * AWS deployment
 * Terraform infrastructure
-* Basic monitoring
+* Monitoring setup
 
 ---
 
@@ -290,8 +267,8 @@ User → Nginx → Docker App → AWS EC2
 
 # ⚠️ COMMON MISTAKES
 
-❌ Watching courses without building
-❌ Doing all Udemy content blindly
+❌ Watching without building
+❌ Doing all course content blindly
 ❌ Skipping networking
 ❌ Copy-pasting configs
 ❌ Learning Kubernetes too early
@@ -342,9 +319,11 @@ User → Nginx → Docker App → AWS EC2
 
 ## 🔥 Final Outcome
 
-👉 After completion:
+👉 **DevOps + Cloud + Python Engineer (Internship-ready)**
 
-**DevOps + Cloud + Python Engineer (Internship-ready)**
+---
+
+📄 License: MIT
 
 ---
 
