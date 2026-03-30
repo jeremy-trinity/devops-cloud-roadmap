@@ -91,27 +91,42 @@ By the end of Stage 1, you will:
 
 ---
 
-### 🐍 Python (PAID — HIGH ROI)
+### 🐍 Python Bootcamp Optimization (100 Days of Code) (PAID — HIGH ROI)
 
 | Course                                              |        Hours Used | Link                                           |
 | --------------------------------------------------- | ----------------: | ---------------------------------------------- |
 | 100 Days of Code™: The Complete Python Pro Bootcamp | 30–40h (selected) | https://www.udemy.com/course/100-days-of-code/ |
 
-### Focus ONLY:
 
-* Python basics
-* File handling
-* APIs (`requests`)
-* Automation scripts
-* Flask (CRITICAL)
-* Debugging
+### ✅ Complete During DevOps Roadmap (High ROI)
 
-❌ Skip:
+- Day 1–14 → Python fundamentals (MANDATORY)
+- Day 25–33 → APIs, requests, automation (CRITICAL)
+- Day 54–60 → Flask (CRITICAL for project)
+- Day 68–72 → Automation-style projects
+---
 
-* games
-* GUI
-* data science / ML
+### ⚠️ Optional (If time allows)
 
+- Day 34–40 → Logic building
+- Day 49–53 → Web basics
+
+---
+
+### ❌ Skip for Now (Complete Later)
+
+- Day 15–24 → Games (Blackjack, Snake, etc.)
+- Day 27–30 → GUI (Tkinter)
+- Day 41–48 → Misc projects (low DevOps relevance)
+- Day 61–67 → Mixed/low ROI content
+- Day 73–100 → Data science, ML, advanced topics
+
+---
+
+### 🎯 Strategy
+
+- Focus only on DevOps-relevant sections first  
+- Return later to complete remaining days after project is done  
 ---
 
 ### 🔧 Git & GitHub (FREE)
